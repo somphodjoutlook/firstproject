@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 HelloWold
 somphod
 somphod
+=======
+HelloWold edit ...edit ..test
+>>>>>>> a129f6ecb33d3157dcc947f07bf515bebc411b84
